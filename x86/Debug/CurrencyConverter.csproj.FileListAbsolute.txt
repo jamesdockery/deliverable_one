@@ -1,0 +1,6 @@
+/Users/jamesdockery/Documents/Csharpprework/CurrencyConverter/CurrencyConverter/bin/Debug/CurrencyConverter.exe
+/Users/jamesdockery/Documents/Csharpprework/CurrencyConverter/CurrencyConverter/bin/Debug/CurrencyConverter.pdb
+/Users/jamesdockery/Documents/Csharpprework/CurrencyConverter/CurrencyConverter/obj/x86/Debug/CurrencyConverter.csprojAssemblyReference.cache
+/Users/jamesdockery/Documents/Csharpprework/CurrencyConverter/CurrencyConverter/obj/x86/Debug/CurrencyConverter.csproj.CoreCompileInputs.cache
+/Users/jamesdockery/Documents/Csharpprework/CurrencyConverter/CurrencyConverter/obj/x86/Debug/CurrencyConverter.exe
+/Users/jamesdockery/Documents/Csharpprework/CurrencyConverter/CurrencyConverter/obj/x86/Debug/CurrencyConverter.pdb
